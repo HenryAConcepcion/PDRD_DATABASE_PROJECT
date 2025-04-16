@@ -22,7 +22,7 @@ namespace capaDATOS.DataBase
 	using System;
 	
 	
-	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="UDIE")]
+	[global::System.Data.Linq.Mapping.DatabaseAttribute(Name="PDRD")]
 	public partial class DbLibraryEntityDataContext : System.Data.Linq.DataContext
 	{
 		
