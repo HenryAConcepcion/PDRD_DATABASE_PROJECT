@@ -1,0 +1,7 @@
+/Users/luzalmanzar/Downloads/PDRD/capaDATOS/bin/Debug/capaDATOS.dll.config
+/Users/luzalmanzar/Downloads/PDRD/capaDATOS/bin/Debug/capaDATOS.dll
+/Users/luzalmanzar/Downloads/PDRD/capaDATOS/bin/Debug/capaDATOS.pdb
+/Users/luzalmanzar/Downloads/PDRD/capaDATOS/obj/Debug/capaDATOS.csproj.AssemblyReference.cache
+/Users/luzalmanzar/Downloads/PDRD/capaDATOS/obj/Debug/capaDATOS.csproj.CoreCompileInputs.cache
+/Users/luzalmanzar/Downloads/PDRD/capaDATOS/obj/Debug/capaDATOS.dll
+/Users/luzalmanzar/Downloads/PDRD/capaDATOS/obj/Debug/capaDATOS.pdb

@@ -1,0 +1,10 @@
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/bin/Debug/capaMODELO.dll
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/bin/Debug/capaMODELO.pdb
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/bin/Debug/capaDATOS.dll
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/bin/Debug/capaDATOS.pdb
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/bin/Debug/capaDATOS.dll.config
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/obj/Debug/capaMODELO.csproj.AssemblyReference.cache
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/obj/Debug/capaMODELO.csproj.CoreCompileInputs.cache
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/obj/Debug/capaMODELO.csproj.CopyComplete
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/obj/Debug/capaMODELO.dll
+/Users/luzalmanzar/Downloads/PDRD/capaMODELO/obj/Debug/capaMODELO.pdb

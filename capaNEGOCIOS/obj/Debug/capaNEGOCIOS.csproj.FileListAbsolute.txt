@@ -1,0 +1,12 @@
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/bin/Debug/capaNEGOCIOS.dll
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/bin/Debug/capaNEGOCIOS.pdb
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/bin/Debug/capaDATOS.dll
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/bin/Debug/capaMODELO.dll
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/bin/Debug/capaDATOS.pdb
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/bin/Debug/capaDATOS.dll.config
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/bin/Debug/capaMODELO.pdb
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/obj/Debug/capaNEGOCIOS.csproj.AssemblyReference.cache
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/obj/Debug/capaNEGOCIOS.csproj.CoreCompileInputs.cache
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/obj/Debug/capaNEGOCIOS.csproj.CopyComplete
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/obj/Debug/capaNEGOCIOS.dll
+/Users/luzalmanzar/Downloads/PDRD/capaNEGOCIOS/obj/Debug/capaNEGOCIOS.pdb
